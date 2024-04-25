@@ -17,50 +17,47 @@
   
   
 ### About me
-I'm a Security Escalation & Software Engineer at ArcSight, Microfocus. Certified ethical hacker (CEH) and CompTIA Security+.
-
-Proficient in Linux systems and Bash/Python scripting with strong knowledge of Java distributed applications while providing security and code quality. I love automation in all aspects which include monitoring, data gathering, and cloud resource provisioning.
+I'm a Senior Security Software Engineer in the DevSecOps field. 
+#### Certified ethical hacker (CEH) and CompTIA Security+.
 
 Graduated from the University Of Costa Rica.
 
-### Core programming languajes
-Here are the languajes in which I feel more confident and where I work in the daily basis
-- :snake: Python
-- :coffee: Java
-- :computer: Bash
-
-### Side programming languajes
-Languajes that I've worked at some point in my career, but may require some google help to confirm syntax...
-- Javascript
-- NodeJS
-- Typescript
-- C#
-- C++
-
 
 ### Technology stack
+- Python
+- Javascript
+- GoLang
+- Java
 - Kubernetes
 - Docker
 - Kafka 
 - Apache (WebServer, Tomcat, JMeter)
 - RDBMs (PSQL, MySQL)
+- NoSQL
 - Terraform
+- Helm
 - Grafana & Prometheus
 - Linux Based Systems
+- Software Security
+- SDLC
+- Node.js
+- Angular
+- Tozny
+- AWS
+
 
 ### Security knowledge
-- Certified CompTIA Sec+ & Certified ethical hacker (CEH)
-- Pentesting process and tools
-- Asset security
+- Certified CompTIA Sec+ & Certified Ethical Hacker (CEH)
+- Penetration Testing
 - Application Security (OWASP TOP 10)
+- Threat modeling
+- Vulnerability management
+- Kubernetes & Docker Hardening (CIS Bench)  
 
 ### Personal Projects
 - 🌱 WhoisWatcher.py: A monitoring python tool to check if a DNS record was tampered or not!
-- 👯Network-Capy: The capybaras are the most friendly animals outhere, this project is in progress and meant to teach about some protocols!
-- 🔭 4noobies: My personal blog, you can visit it here: https://4noobies.medium.com/
+- 🔭 4noobies: My blog, you can visit it here: https://4noobies.medium.com/
 - :page_with_curl: Teacher: I've participated as a Teacher of areas related to TI (Security, Linux, Social Engineering) for summer classes in the University of Costa Rica
 
-### More about me
-- 🤔 I’m currently learning about CI/CD tools and how to secure code process.
-- ⚡ I need to always be learning new stuff and participating in exciting projects, if not I get bored...
+
 
